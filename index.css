@@ -1,0 +1,20 @@
+.navbar-default {
+    background-color:#fdd692;
+    background-image: none;
+    background-repeat: no-repeat;
+
+   }
+
+.app{
+    font-family: 'East Sea Dokdo', cursive;
+    font-size: 30px;
+}
+
+#main {
+    padding-top: 30px ;
+   
+}
+
+body{
+    background-color: #FFE8D4;
+}
